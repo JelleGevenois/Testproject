@@ -14,6 +14,9 @@ public class Testproject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       //gewijzigd code
+    }
+    public void extramethode(){
+    
     }
 }
